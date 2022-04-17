@@ -5,7 +5,7 @@ Want to work in a cafe but need power and wifi? **You've found the right place!*
 By this application you can check your own database to work places with their rates or you can add new cafe places to database using secret URL section.
 
 <p align="center">
-  <img src="https://i.ibb.co/GvgGMWY/Screenshot-2022-04-17-at-20-22-15.png" alt="coffee-wifi"/>
+  <img src="https://i.postimg.cc/RVv502BJ/Screenshot-2022-04-17-at-20-44-57.png" alt="coffee-wifi"/>
 </p>
 
 # Installing
@@ -33,13 +33,13 @@ Your [Localhost (http://127.0.0.1:5000)](http://127.0.0.1:5000) page.
 There is a secret route to access adding places to database section as ```/add```, with this route you can access to adding new places to your database.
 
 <p align="center">
-  <img src="https://i.ibb.co/pZgF2YN/Screenshot-2022-04-17-at-20-23-00.png" alt="add-coffee-wifi"/>
+  <img src="https://i.postimg.cc/FHKMyc19/Screenshot-2022-04-17-at-20-45-15.png" alt="add-coffee-wifi"/>
 </p>
 
 # List of Places
 
 <p align="center">
-  <img src="https://i.ibb.co/pZgF2YN/Screenshot-2022-04-17-at-20-23-00.png" alt="add-coffee-wifi"/>
+  <img src="https://i.postimg.cc/jdvVnvxg/Screenshot-2022-04-17-at-20-45-05.png" alt="list-coffee-wifi"/>
 </p>
 
 # Documentations
