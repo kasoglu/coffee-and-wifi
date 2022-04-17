@@ -2,7 +2,7 @@
 
 Want to work in a cafe but need power and wifi? **You've found the right place!** 
 
-By this application you can check your own database to work places with their rates or you can add new cafe places to database using secret URL section.
+With this application, you can check your own database to work places with their rates or you can add new cafe places to database using secret URL section.
 
 <p align="center">
   <img src="https://i.postimg.cc/RVv502BJ/Screenshot-2022-04-17-at-20-44-57.png" alt="coffee-wifi"/>
